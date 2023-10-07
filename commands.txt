@@ -1,0 +1,3 @@
+docker-compose run web django-admin startproject backend .
+docker-compose build
+docker-compose up

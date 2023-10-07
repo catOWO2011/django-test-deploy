@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "pgOptions": {
+        "ssl": true
+      },
+      "previewLimit": 50,
+      "server": "dpg-ckgr04a12bvs738shqf0-a.oregon-postgres.render.com",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "render-test-django",
+      "username": "django_test_fjrt_user",
+      "password": "9mAOvPSGiQqSSjUfebiyhKd26CdjIjVY",
+      "database": "django_test_fjrt"
+    }
+  ]
+}
